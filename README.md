@@ -23,7 +23,7 @@ The **AI Cooking Assistant** is a multimodal application powered by Google Gemin
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ai-cooking-assistant.git
+   git clone https://github.com/MVenkatsai02/Cooking-Assistant-Gen-AI
    cd ai-cooking-assistant
    ```
 2. Install dependencies:
